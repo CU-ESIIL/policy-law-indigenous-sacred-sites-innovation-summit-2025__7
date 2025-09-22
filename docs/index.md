@@ -1,20 +1,19 @@
-# Project Title 
+# Policy, Law, and Indigenous Sacred Sites Innovation Summit 2025
 
-
-<p style="text-align: right;"><a href="https://github.com/CU-ESIIL/Project_group_OASIS/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
+<p style="text-align: right;"><a href="https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
 
 <!-- =========================================================
 HERO (Swap hero.jpg, title, strapline, and the three links)
 ========================================================= -->
 
 ![Wide banner of the study system](assets/hero.jpg)
-[Raw photo location: hero.jpg](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/hero.jpg)
+[Raw photo location: hero.jpg](https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7/blob/main/docs/assets/hero.jpg)
 
-**One sentence on impact:** In 3 days, we explore *X* to inform *Y*, producing actionable visuals, a concise brief, and shareable code.
+**One sentence on impact:** In three days we pair legal expertise with Indigenous-led stewardship priorities to surface actionable guidance for safeguarding sacred sites.
 
-**[Project brief (PDF)](#) · [View shared code](https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/code) · [Data & access](data.md)**
+**[Project brief (PDF)](#) · [View shared code](https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7/tree/main/code) · [Data & access](data.md)**
 
-> **About this site:** This is a public, in-progress record of a 3-day project at the Innovation Summit. Edit everything here in your browser: open a file → pencil icon → Commit changes.
+> **About this site:** This is a public, in-progress record of the Policy, Law, and Indigenous Sacred Sites Innovation Summit 2025 sprint (Group 7). Edit everything here in your browser: open a file → pencil icon → Commit changes.
 
 ---
 
@@ -26,77 +25,69 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ---
 
 ## Day 1 — Define & Explore
-*Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
+*Focus: clarify goals, co-create guiding questions, document shared context.*
 
 ### Our product 📣
-- What product do you want to create as a team?
+- Develop a policy roadmap highlighting immediate actions agencies and Tribes can take to protect sacred sites.
+- Prototype a story-driven data visualization that situates sacred landscapes within existing legal frameworks.
 
 ### Our question(s) 📣
-<!-- EDIT: Replace bullets with your own. Encourage divergent takes. -->
-- What are we trying to understand or change?
-- Why now? Why here?
-- Who benefits if we succeed?
+- Which policy levers and legal tools most effectively uphold Indigenous sovereignty for sacred lands?
+- Where do gaps in law or data leave culturally important places vulnerable?
+- How do we package recommendations so decision-makers can act quickly and responsibly?
 
-### Hypotheses / intentions [Optional: probably not relevant if you are creating an educational tool]
-<!-- EDIT: Plain language, short and honest. -->
-- We think that …
-- We intend to test whether …
-- We will know we’re onto something if …
+### Hypotheses / intentions 📣
+- We think aligning federal, state, and Tribal protections will reveal practical pathways to safeguard sacred landscapes.
+- We intend to test whether publicly available geospatial layers and case studies can anchor co-produced policy recommendations.
+- We will know we’re onto something if partners see a clear sequence of shared actions and information needs.
 
 ### Why this matters (the “upshot”) 📣
-<!-- EDIT: 2–3 sentences max, decision-oriented. -->
-Explain who is impacted and how this could change decisions or understanding.
+Protecting Indigenous sacred sites requires centering community-led priorities, honoring sovereignty, and coordinating legal mechanisms across jurisdictions. A concise set of co-created recommendations gives policy makers and practitioners a clear mandate for collaboration.
 
 ### Inspirations (papers, datasets, tools)
-<!-- EDIT: Swap in your own links. -->
-- Publication: [Influential paper title](https://doi.org/xxxx)
-- Dataset portal: [Example data hub](https://example.org)
-- Tool/tech: [Method or library](https://example.org)
+- Publication: Add key legal or governance analyses that frame sacred site protection.
+- Dataset portal: Link to spatial layers (Tribal lands, heritage registries, conservation designations) that inform your synthesis.
+- Tool/tech: Track any methods for collaborative mapping, policy comparison, or decision support you adopt.
 
 ### Field notes / visuals
-<!-- EDIT: Replace with a real smartphone photo or sketch; keep filename simple. -->
-![Whiteboard brainstorm (replace this)](assets/day1_whiteboard.jpg)
-[Raw photo location: day1_whiteboard.jpg](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/day1_whiteboard.jpg)
-*Caption: What this shows and why it’s useful today.*
+![Whiteboard brainstorm](assets/day1_whiteboard.jpg)
+[Raw photo location: day1_whiteboard.jpg](https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7/blob/main/docs/assets/day1_whiteboard.jpg)
+*Caption: Snapshot of shared priorities, legal frameworks, or storytelling ideas surfaced on Day 1.*
 
-> **Different perspectives:** Briefly capture disagreements or alternate framings. These can unlock innovation.
+> **Different perspectives:** Capture complementary or contrasting viewpoints—they sharpen your final recommendations.
 
 ---
 
 ## Day 2 — Data & Methods
-*Focus: what we’re testing and building; show a first visual (plot/map/screenshot/GIF).*
+*Focus: gather evidence, test tools, and capture the visuals that communicate your story.*
 
 ### Data sources we’re exploring 📣
-<!-- EDIT: Link each source; add size/notes if relevant. -->
-- **Source A**
-
+- **Sacred sites or cultural resource registries** — Document access instructions, licensing constraints, and relevant attributes.
   ![Pattern revealed during exploration](assets/explore_data_plot.png)
-[Raw photo location: explore_data_plot.png](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/explore_data_plot.png)
-  *Snapshot showing initial data patterns.*
-
-- Source B — link and 1-line description
+  [Raw photo location: explore_data_plot.png](https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7/blob/main/docs/assets/explore_data_plot.png)
+  *Snapshot showing patterns that influence policy recommendations (e.g., overlap with management jurisdictions).* 
+- **Policy or treaty archives** — Note repositories that track case law, federal notices, or Tribal agreements that shape protections.
 
 ### Methods / technologies we’re testing 📣
-- Approach 1 (e.g., time-series break detection)
-- Approach 2 (e.g., random forest on features)
-- Visualization (e.g., map tiles, small multiples)
+- Comparative policy review and legal mapping of protections across jurisdictions.
+- Geospatial overlays that pair sacred site extents with land status, threat indicators, or stewardship capacity.
+- Story map, dashboard, or PDF layout tools for communicating co-produced recommendations.
 
 ### Challenges identified
-- Data gaps / quality issues
-- Method limitations / compute constraints
-- Open questions we need to decide on
+- Incomplete or sensitive datasets that require additional permissions.
+- Conflicting definitions of “sacred site” across agencies and statutes.
+- Time needed to validate interpretations with Indigenous knowledge holders.
 
 ### Visuals
-<!-- EDIT: Swap examples; keep file sizes modest. -->
 #### Static figure
-![Early pattern we’re seeing](assets/figure1.png)
-[Raw photo location: figure1.png](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/figure1.png)
-*Figure 1.* One line on what this suggests.
+![Policy landscape overview](assets/figure1.png)
+[Raw photo location: figure1.png](https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7/blob/main/docs/assets/figure1.png)
+*Figure 1.* Illustrate a key relationship (e.g., sites lacking formal protection within a region of interest).
 
 #### Animated change (GIF)
-![Seasonal/temporal change animation](assets/change.gif)
-[Raw photo location: change.gif](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/change.gif)
-*Figure 2.* One line on what changes across time.
+![Change in protection status over time](assets/change.gif)
+[Raw photo location: change.gif](https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7/blob/main/docs/assets/change.gif)
+*Figure 2.* Highlight evolving policy milestones, stewardship activities, or threats through time.
 
 #### Interactive map (iframe)
 <iframe
@@ -109,31 +100,29 @@ Explain who is impacted and how this could change decisions or understanding.
 
 ---
 
-## Final Share Out — Insights & Sharing 
-*Focus: synthesis; highlight 2–3 visuals that tell the story; keep text crisp. Practice a 2-minute walkthrough of the homepage 📣: Why → Questions → Data/Methods → Findings → Next.*
+## Final Share Out — Insights & Sharing
+*Focus: synthesize findings, share co-produced recommendations, and celebrate partnerships.*
 
 ![Team photo at start of Day 3](assets/team_photo.jpg)
-[Raw photo location: team_photo.jpg](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/team_photo.jpg)
+[Raw photo location: team_photo.jpg](https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7/blob/main/docs/assets/team_photo.jpg)
 
 ### Findings at a glance 📣
-<!-- EDIT: 2–4 bullets, each a headline in plain language with a number if possible. -->
-- Headline 1 — what, where, how much
-- Headline 2 — change/trend/contrast
-- Headline 3 — implication for practice or policy
+- Headline 1 — What legal or policy opportunity emerged?
+- Headline 2 — Which gaps or risks require urgent attention?
+- Headline 3 — What collaborative pathway or agreement should stakeholders pursue next?
 
 ### Visuals that tell the story 📣
-<!-- EDIT: Swap visuals; prioritize clarity. -->
-![Lead conclusion visual placeholder](assets/fire_hull.png)
-[Raw photo location: fire_hull.png](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/fire_hull.png)
-*Visual 1.* Swap in the primary graphic that clearly communicates your core takeaway.
+![Lead conclusion visual](assets/fire_hull.png)
+[Raw photo location: fire_hull.png](https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7/blob/main/docs/assets/fire_hull.png)
+*Visual 1.* Swap in the primary graphic that synthesizes policy, law, and Indigenous stewardship insights.
 
 ![Supporting panels for key insights](assets/hull_panels.png)
-[Raw photo location: hull_panels.png](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/hull_panels.png)
-*Visual 2.* Use a complementary panel, collage, or set of snapshots that reinforces supporting evidence.
+[Raw photo location: hull_panels.png](https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7/blob/main/docs/assets/hull_panels.png)
+*Visual 2.* Provide supporting evidence, such as jurisdiction overlays or stakeholder feedback.
 
-![Complementary result figure placeholder](assets/main_result.png)
-[Raw photo location: main_result.png](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/main_result.png)
-*Visual 3.* Highlight an additional visual that captures a secondary insight or next step.
+![Complementary result figure](assets/main_result.png)
+[Raw photo location: main_result.png](https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7/blob/main/docs/assets/main_result.png)
+*Visual 3.* Add an additional figure that captures remaining questions or next steps.
 
 <iframe
   title="Short explainer video (optional)"
@@ -143,24 +132,23 @@ Explain who is impacted and how this could change decisions or understanding.
   allowfullscreen></iframe>
 
 ### What’s next? 📣
-- Immediate follow-ups
-- What we would do with one more week/month
-- Who should see this next
+- Immediate follow-ups the team or partners will pursue.
+- What you would expand with one more week or month of collaboration.
+- Who needs to see this work next (agencies, Tribal councils, community leaders).
 
 ---
 
 ## Featured links (image buttons)
-<!-- EDIT: Replace images/links; keep alt text meaningful and motion subtle. -->
 <table>
 <tr>
 <td align="center" width="33%">
   <a href="assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf"><img src="assets/button_brief.gif" alt="Project brief PDF" width="240"><br><strong>Read the brief</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/code/fired_time_hull_panel.ipynb"><img src="assets/button_code.gif" alt="View shared code" width="240"><br><strong>View code</strong></a>
+  <a href="https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7/blob/main/code/fired_time_hull_panel.ipynb"><img src="assets/button_code.gif" alt="View shared code" width="240"><br><strong>View code</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/code/single_hull_demo.py"><img src="assets/button_data.gif" alt="Explore data" width="240"><br><strong>Explore data</strong></a>
+  <a href="https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7/blob/main/code/single_hull_demo.py"><img src="assets/button_data.gif" alt="Explore data" width="240"><br><strong>Explore data</strong></a>
 </td>
 </tr>
 </table>
@@ -170,35 +158,30 @@ Explain who is impacted and how this could change decisions or understanding.
 ## Team
 | Name | Role | Contact | GitHub |
 |------|------|---------|--------|
-| Jane Doe | Lead | jane.doe@example.org | @janedoe |
-| John Smith | Analyst | john.smith@example.org | @jsmith |
+| _Add team member_ | Lead (policy coordination) | name@example.org | @github-handle |
+| _Add team member_ | Legal research | name@example.org | @github-handle |
+| _Add team member_ | Data & visualization | name@example.org | @github-handle |
+| _Add team member_ | Indigenous partnerships | name@example.org | @github-handle |
 
 ---
 
-
-
 ## Storage
 
-Code
-Keep shared scripts, notebooks, and utilities in the [`code/`](https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/code) directory. Document how to run them in a README or within the files so teammates and visitors can reproduce your workflow.
+**Code**
+Keep shared scripts, notebooks, and utilities in the [`code/`](https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7/tree/main/code) directory. Document how to run them in a README or within the files so teammates and visitors can reproduce your workflow.
 
-Documentation
-Use the [`docs/`](https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/docs) folder to publish project updates on this site. Longer internal notes can live in [`documentation/`](https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/documentation); summarize key takeaways here so the public story stays current.
+**Documentation**
+Use the [`docs/`](https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7/tree/main/docs) folder to publish project updates on this site. Longer internal notes can live in [`documentation/`](https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7/tree/main/documentation); summarize key takeaways here so the public story stays current.
 
 ---
 
 ## Cite & reuse
 If you use these materials, please cite:
 
-> Lastname, A., Lastname, B. (2025). *Project title*. DOI or URL.
+> Policy, Law, and Indigenous Sacred Sites Innovation Summit 2025 Team. (2025). *Policy, Law, and Indigenous Sacred Sites Innovation Summit 2025 — Group 7 outputs*. https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7
 
 License: CC-BY-4.0 unless noted. See dataset licenses on the **[Data](data.md)** page.
 
 ---
 
-<!-- EDIT HINTS
-- Upload images to docs/assets/ and reference as assets/filename.png
-- Keep images ~1200 px wide; avoid >5–8 MB per file.
-- Use short, active sentences; this is a scrolling “slide deck.”
-- Update this page at least once per day during the sprint.
--->
+<!-- Upload images to docs/assets/ and reference as assets/filename.png. Keep images ~1200 px wide; avoid >5–8 MB per file. Update this page at least once per day during the sprint. -->
