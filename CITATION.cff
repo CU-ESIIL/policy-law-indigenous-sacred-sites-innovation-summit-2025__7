@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
-title: "Project Group OASIS"
-version: "1.0.0"
-doi: 10.5281/zenodo.11166898
-date-released: 2025-09-10
+title: "Policy, Law, and Indigenous Sacred Sites Innovation Summit 2025 (Group 7)"
+abstract: "Resources, documentation, and shared code produced during the 2025 Innovation Summit sprint focused on policy, law, and Indigenous sacred sites."
+version: "0.1.0"
+date-released: 2025-02-01
+repository-code: "https://github.com/CU-ESIIL/policy-law-indigenous-sacred-sites-innovation-summit-2025__7"
 authors:
-  - family-names: Tuff
-    given-names: Ty
+  - name: "Policy, Law, and Indigenous Sacred Sites Innovation Summit 2025 Team"
